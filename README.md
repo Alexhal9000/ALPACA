@@ -1,7 +1,7 @@
 # ALPACA Documentation
 
 ## Overview
-ALPACA (Automated Landmarking through Pointcloud Alignment and Correspondence Analysis) is a tool for aligning 3D landmarks from a source mesh to a target mesh. This implementation is based on the original ALPACA code by Arthur Porto, with modifications by Alejandro Gutierrez.
+ALPACA (Automated Landmarking through Pointcloud Alignment and Correspondence Analysis) is a tool for aligning 3D landmarks from a source mesh to a target mesh. This implementation is based on the original [ALPACA](https://github.com/SlicerMorph/SlicerMorph/tree/17bae274129a763f41951512fece68b413d6e076/ALPACA) code by Arthur Porto, with modifications by Alejandro Gutierrez.
 
 ## Class Structure
 
